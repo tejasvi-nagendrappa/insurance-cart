@@ -1,0 +1,13 @@
+@import "~antd/dist/antd.css";
+
+.App__pageheader {
+  background-color: #001529;
+
+  .ant-page-header-heading-title {
+    color: white;
+  }
+}
+
+.App__content {
+  min-height: 100vh;
+}
